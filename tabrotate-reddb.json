@@ -1,0 +1,24 @@
+{
+    "settingsReloadIntervalMinutes": 1,
+    "fullscreen": true,
+    "autoStart": true,
+    "lazyLoadTabs": false,
+    "closeExistingTabs": false,
+    "websites": [
+      {
+        "url": "https://kbb15806.live.dynatrace.com/index.jsp?state=f20E-aYEI71UkScO6uEQfzB4wrHNJ6dCxXnyDaEyzcE&code=07b24139-7be7-453e-a1ba-19643d1fb701#dashboard;id=0962a138-6080-40bf-837f-901e3db5e197;gf=all;gtf=-30m",
+        "duration": 8,
+        "tabReloadIntervalSeconds": 15
+      },
+      {
+        "url": "https://kbb15806.live.dynatrace.com/ui/problems?gtf=-6h&gf=-558978224811919961",
+        "duration": 8,
+        "tabReloadIntervalSeconds": 15
+      },
+      {
+        "url": "https://kbb15806.live.dynatrace.com/ui/problems?gtf=-6h&gf=-8173790581349446834",
+        "duration": 8,
+        "tabReloadIntervalSeconds": 15
+      }
+    ]
+  }
